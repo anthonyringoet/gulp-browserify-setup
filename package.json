@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "d"
+    "url": "git@github.com:anthonyringoet/gulp-browserify-setup.git"
   },
   "keywords": [
     "gulp",
